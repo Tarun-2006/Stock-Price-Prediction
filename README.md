@@ -34,8 +34,8 @@ Train the model using the training data.
 Evaluate the model and plot predictions.
 
 ## Program
-#### Name : S LALIT CHANDRAN
-#### Register Number : 212223240077
+#### Name : Tarun S
+#### Register Number : 212223040226
 
 ```Python 
 # Define RNN Model
@@ -79,13 +79,15 @@ for epoch in range(epochs):
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
-![image](https://github.com/user-attachments/assets/510b661b-6b88-474b-8f6e-ee5db3edf663)
+![image](https://github.com/user-attachments/assets/bda1e434-c770-4a7c-a4eb-fdf10a2d2ac3)
+
 
 
 
 
 ### Predictions 
-![image](https://github.com/user-attachments/assets/7138dc8e-639e-426d-91c2-e9d29ac25b45)
+![image](https://github.com/user-attachments/assets/71f0e668-fb2b-4f95-8ce0-a9e8b3b908f1)
+
 
 
 
